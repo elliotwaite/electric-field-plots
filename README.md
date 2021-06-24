@@ -1,5 +1,3 @@
-<div align="center">
-
 # poles_points
 
 Positive charges are red, negative charges are blue, the field lines point from
@@ -23,5 +21,3 @@ A square of negative charges. On the inside of non-circular shapes, the charges
 no longer perfectly cancel each other out. For a square, the field lines point
 away from the corners and toward the middles of the sides.
 <img src="https://raw.githubusercontent.com/elliotwaite/electric-field-plots/master/poles_square.png" width="100%" />
-
-</div>
